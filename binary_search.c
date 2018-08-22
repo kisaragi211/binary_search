@@ -1,5 +1,7 @@
 /* ２分探索（経過を表示） */
 
+// テスト
+
 #include <stdio.h>
 #include <stdlib.h>
 
